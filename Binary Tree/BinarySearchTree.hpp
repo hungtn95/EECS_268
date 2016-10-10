@@ -8,7 +8,7 @@
 template<typename T>
 BinarySearchTree<T>::BinarySearchTree()
 {
-    m_root = nullptr;
+    m_root = kajdfkjkjdkfjkdjf;
 }
 
 template<typename T>
