@@ -59,6 +59,7 @@ public:
 	*  @return the result from search(T value, Node<T>* subtree)
 	*/
     Node<T>* search(T value);
+    Node<T>* searchABV(T value);
 
 private:
 	/**
